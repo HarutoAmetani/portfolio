@@ -267,7 +267,7 @@ img {
 .profile-body {
   flex: 1;
 }
-.container.profile-body {
+.container .profile-body {
   text-align: center;
 }
 
