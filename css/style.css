@@ -265,7 +265,7 @@ img {
   border-radius: 50%;
 }
 .profile-body {
-  margin-left: 30px;
+  text-align: center;
   flex: 1;
 }
 
@@ -516,7 +516,6 @@ img {
   }
   
   .profile-body {
-    margin-left: 50px;
     flex: 1;
   }
 
@@ -552,5 +551,13 @@ img {
     font-size: 14px;
     line-height: 1.7;
     margin-bottom: 20px;
+  }
+  
+  .name {
+    text-align: center;
+  }
+  
+  .ul {
+    text-align: center;
   }
 }
