@@ -265,8 +265,10 @@ img {
   border-radius: 50%;
 }
 .profile-body {
-  text-align: center;
   flex: 1;
+}
+.container.profile-body {
+  text-align: center;
 }
 
 .profile-body p {
