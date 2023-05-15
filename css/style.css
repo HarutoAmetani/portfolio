@@ -265,6 +265,7 @@ img {
   border-radius: 50%;
 }
 .profile-body {
+  padding-right:20px;
   flex: 1;
 }
 
@@ -512,6 +513,11 @@ img {
     width: 150px;
     margin: 0 auto;
     margin-bottom: 25px;
+  }
+  
+  .profile-body {
+    padding-right:5px;
+    flex: 1;
   }
 
   .profile-body p {
